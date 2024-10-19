@@ -1,0 +1,117 @@
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "smms",
+    "smms": {
+      "token": ""
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "9239c548-4491-4a11-a971-d7b61d9a9b2f",
+      "_createdAt": 1729324672093,
+      "_updatedAt": 1729324672093
+    },
+    "imgur": {
+      "_configName": "Default",
+      "_id": "bd5ec0f9-0207-43f2-b957-8e1abe87f340",
+      "_createdAt": 1729334087976,
+      "_updatedAt": 1729334087976
+    },
+    "github": {
+      "_configName": "Default",
+      "_id": "a4e3058c-0567-44db-beab-ed132f6c1b96",
+      "_createdAt": 1729334088771,
+      "_updatedAt": 1729334088771
+    },
+    "aws-s3-plist": {
+      "_configName": "Default",
+      "_id": "a21a4c53-e016-49a7-beff-1362a251b9bf",
+      "_createdAt": 1729334089501,
+      "_updatedAt": 1729334089501
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "c105e1a6-23df-4b2c-b2d0-1e8c14ea8928",
+      "_createdAt": 1729334091487,
+      "_updatedAt": 1729334091487
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "9239c548-4491-4a11-a971-d7b61d9a9b2f",
+          "_createdAt": 1729324672093,
+          "_updatedAt": 1729324672093
+        }
+      ],
+      "defaultId": "9239c548-4491-4a11-a971-d7b61d9a9b2f"
+    },
+    "imgur": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "bd5ec0f9-0207-43f2-b957-8e1abe87f340",
+          "_createdAt": 1729334087976,
+          "_updatedAt": 1729334087976
+        }
+      ],
+      "defaultId": "bd5ec0f9-0207-43f2-b957-8e1abe87f340"
+    },
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "a4e3058c-0567-44db-beab-ed132f6c1b96",
+          "_createdAt": 1729334088771,
+          "_updatedAt": 1729334088771
+        }
+      ],
+      "defaultId": "a4e3058c-0567-44db-beab-ed132f6c1b96"
+    },
+    "aws-s3-plist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "a21a4c53-e016-49a7-beff-1362a251b9bf",
+          "_createdAt": 1729334089501,
+          "_updatedAt": 1729334089501
+        }
+      ],
+      "defaultId": "a21a4c53-e016-49a7-beff-1362a251b9bf"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "c105e1a6-23df-4b2c-b2d0-1e8c14ea8928",
+          "_createdAt": 1729334091487,
+          "_updatedAt": 1729334091487
+        }
+      ],
+      "defaultId": "c105e1a6-23df-4b2c-b2d0-1e8c14ea8928"
+    }
+  }
+}
